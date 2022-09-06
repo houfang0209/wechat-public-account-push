@@ -31,11 +31,11 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "放放",
+      name: "高妍",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oMN5-6UgKdIZ0a2YVOxCFMFaMOjA",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Wue80GrtY1nAi5a4tam4FDxZF59WNx9pwcBc06LMpANnu8",
+      useTemplateId: "_5NOAnO6g_5FLhweUsHB8AM7Ecm2yEm2qphZo0iAGgY",
       // 所在省份
       province: "辽宁",
       // 所在城市
